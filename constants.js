@@ -9,11 +9,11 @@ const MOVE_RIGHT = 'd';
 const MESSAGE = 'm';
 
 module.exports = {
-    IP,
-    PORT,
-    MOVE_UP,
-    MOVE_DOWN,
-    MOVE_LEFT,
-    MOVE_RIGHT,
-    MESSAGE
-}
+  IP,
+  PORT,
+  MOVE_UP,
+  MOVE_DOWN,
+  MOVE_LEFT,
+  MOVE_RIGHT,
+  MESSAGE
+};
