@@ -5,7 +5,3 @@ connect.on("connect", () => {
 })
 
 connect();
-
-module.exports = {
-    connect
-};
